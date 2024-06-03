@@ -25,9 +25,9 @@ def get_random_sticker():
     stickers = [
         "CAACAgQAAx0Ce9_hCAACaEVlwn7HeZhgwyVfKHc3WUGC_447IAACLgwAAkQwKVPtub8VAR018x4E",
         "CAACAgIAAx0Ce9_hCAACaEplwn7dvj7G0-a1v3wlbN281RMX2QACUgwAAligOUoi7DhLVTsNsh4E",
-        "CAACAgIAAx0Ce9_hCAACaFBlwn8AAZNB9mOUvz5oAyM7CT-5pjAAAtEKAALa7NhLvbTGyDLbe1IeBA",
-        "CAACAgUAAx0CcmOuMwACldVlwn9ZHHF2-S-CuMSYabwwtVGC3AACOAkAAoqR2VYDjyK6OOr_Px4E",
-        "CAACAgIAAx0Ce9_hCAACaFVlwn-fG58GKoEmmZpVovxEj4PodAACfwwAAqozQUrt2xSTf5Ac4h4E",
+        "CAACAgQAAx0CflIs0AACA0tmXe_XolvCDR5JDlGNeR8uBJADSwACohMAAicIaVByILS_dQqXFx4E",
+        "CAACAgUAAx0CflIs0AACA1NmXfA-giGyPgOl6NOWjTCy1rzyCgACbwIAAg3ngVfSxw2kW-GnCx4E",
+        "CAACAgQAAx0CflIs0AACA09mXfAWRp68d86tcefcKW96hE09_gAC_AsAAhfc6VBmrsfisZSiwh4E",
     ]
     return random.choice(stickers)
 
