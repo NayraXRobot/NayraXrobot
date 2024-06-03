@@ -40,7 +40,7 @@ async def init():
     await userbot.start()
     await SHUKLA.start()
     try:
-        await SHUKLA.stream_call("https://te.legra.ph/file/29f784eb49d230ab62e9e.mp4")
+        await SHUKLA.stream_call("https://telegra.ph/file/104c7595213e632bade75.jpg")
     except NoActiveGroupCall:
         LOGGER("SHUKLAMUSIC").error(
             "𝗣𝗹𝗭 𝗦𝗧𝗔𝗥𝗧 𝗬𝗢𝗨𝗥 𝗟𝗢𝗚 𝗚𝗥𝗢𝗨𝗣 𝗩𝗢𝗜𝗖𝗘𝗖𝗛𝗔𝗧\𝗖𝗛𝗔𝗡𝗡𝗘𝗟\n\n 𝙉𝙖𝙮𝙧𝙖 𝗕𝗢𝗧 𝗦𝗧𝗢𝗣........"
